@@ -4,7 +4,7 @@ The **Boardoza ESP-01M** is a compact, high-performance **Wi-Fi module** based o
 
 The **ESP8285** is an enhanced version of the **ESP8266**, featuring **1MB of embedded flash memory**, allowing it to run standalone applications without requiring an external flash chip. The ESP-01M provides **dual virtual Wi-Fi interfaces** and supports multiple **network modes** (**Station, SoftAP, and Promiscuous mode**), making it a highly flexible choice for **IoT applications**.
 
-### [Click here to purchase!](https://www.ozdisan.com/maker-and-iot-products/boardoza/boardoza-modules/BOARDOZA-ESP01M/1202706)
+## [Click here to purchase!](https://www.ozdisan.com/maker-and-iot-products/boardoza/boardoza-modules/BOARDOZA-ESP01M/1202706)
 
 | Front Side | Back Side |
 |:---:|:---:|
@@ -13,6 +13,7 @@ The **ESP8285** is an enhanced version of the **ESP8266**, featuring **1MB of em
 ---
 
 ## **Key Features**
+
 - **ESP8285 SoC**: Fully integrated Wi-Fi solution with **1MB embedded flash**.
 - **802.11 b/g/n (2.4 GHz) Wi-Fi**, supporting speeds up to **72.2 Mbps**.
 - **Supports AT Command Set** for simple configuration.
@@ -28,9 +29,10 @@ The **ESP8285** is an enhanced version of the **ESP8266**, featuring **1MB of em
 ---
 
 ## **Technical Specifications**
+
 **Model:** ESP-01M (Ai Thinker)
 
-**Chipset:** ESP8285 
+**Chipset:** ESP8285
 
 **Embedded Flash Memory:** 1MB  
 
@@ -57,6 +59,7 @@ The **ESP8285** is an enhanced version of the **ESP8266**, featuring **1MB of em
 ---
 
 ## **Board Pinout**
+
 | Pin Number | Pin Name | Description |
 |:---:|:---:|---|
 | 1  | 5V  | Positive Power Supply |
@@ -69,31 +72,37 @@ The **ESP8285** is an enhanced version of the **ESP8266**, featuring **1MB of em
 ---
 
 ## **Board Dimensions**
+
 <img src="./assets/ESP-01M Dimension.png" alt="Board Dimensions" width="450"/>
 
 ---
 
 ## **Step Files**
+
 [Boardoza ESP-01M.step](./assets/ESP-01M%20Step.step)
 
 ---
 
 ## **Datasheet**
+
 [Boardoza ESP-01M Datasheet.pdf](./assets/ESP-01M%20Datasheet.pdf)
 
 ---
 
 ## **Version History**
+
 - V1.0.0 - Initial Release
 
 ---
 
 ## **Support**
-For support and inquiries, contact **support@boardoza.com**.
+
+For support and inquiries, contact **<support@boardoza.com>**.
 
 ---
 
 ## **License**
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]  
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].  
