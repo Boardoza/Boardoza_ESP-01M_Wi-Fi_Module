@@ -38,6 +38,8 @@ The **ESP8285** is an enhanced version of the **ESP8266**, featuring **1MB of em
 
 **Voltage Supply:** 3.3V - 5V  
 
+**Supported I/O Voltage:** 3.3V
+
 **Functions:** Wi-Fi SoC Module  
 
 **Communication Interface:** UART (up to 4 Mbps)  
