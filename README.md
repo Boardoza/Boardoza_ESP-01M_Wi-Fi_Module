@@ -18,7 +18,7 @@ The **ESP8285** is an enhanced version of the **ESP8266**, featuring **1MB of em
 - **802.11 b/g/n (2.4 GHz) Wi-Fi**, supporting speeds up to **72.2 Mbps**.
 - **Supports AT Command Set** for simple configuration.
 - **Low Power Consumption**, ideal for battery-operated devices.
-- **UART Communication**, default baud rate **74880 or 115200 kbps**.
+- **UART Communication**, default baud rate **up to 4 Mbps**.
 - **Supports Dual Virtual Wi-Fi Interfaces**.
 - **Multiple Network Modes**:
   - **Station Mode** (Connects to an Access Point).
@@ -40,7 +40,7 @@ The **ESP8285** is an enhanced version of the **ESP8266**, featuring **1MB of em
 
 **Functions:** Wi-Fi SoC Module  
 
-**Communication Interface:** UART (74880 or 115200 kbps)  
+**Communication Interface:** UART (up to 4 Mbps)  
 
 **Wi-Fi Standard:** IEEE 802.11b/g/n (2.4 GHz)  
 
